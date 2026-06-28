@@ -19,7 +19,19 @@ An intelligent, adaptive traffic signal management system that uses **YOLOv8 dee
 - [Troubleshooting](#troubleshooting)
 
 ---
+## Screenshots
+## 1. Vehicle Counting Dashboard
+![Vehicle Counting Dashboard](https://github.com/priyanshupandey93/AI-Based-Real-Time-Traffic-Control-System-/blob/main/Output%20Snapshots/Vehicle%20Counting%20Dashboard.png)
 
+## 2. Initial Simulation State
+![Initial Simulation State](https://github.com/priyanshupandey93/AI-Based-Real-Time-Traffic-Control-System-/blob/main/Output%20Snapshots/Initial%20Simulation%20State.png)
+
+## 3. Adaptive Signal Allocation in Action
+![Adaptive Signal Allocation in Action](https://github.com/priyanshupandey93/AI-Based-Real-Time-Traffic-Control-System-/blob/main/Output%20Snapshots/Adaptive%20Signal%20Allocation%20in%20Action.png)
+
+![Adaptive Signal Allocation in Action](https://github.com/priyanshupandey93/AI-Based-Real-Time-Traffic-Control-System-/blob/main/Output%20Snapshots/Adaptive%20Signal%20Allocation%20in%20Action%20(1).png)
+
+---
 ## 📖 Overview
 
 This project implements a **4-lane AI-powered traffic control system** for a standard road intersection. Instead of fixed-timer signals, the system:
