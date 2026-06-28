@@ -370,10 +370,13 @@ pip install opencv-python
 
 **Abhay Singh**
 [LinkedIn](https://www.linkedin.com/in/abhay-singh-73921827a/)
+
 **Priyanshu Pandey**
 [LinkedIn](https://www.linkedin.com/in/priyanshu-pandey-93gn/)
+
 **Harsh Kumar Maddheshiya**
 [LinkedIn](https://www.linkedin.com/in/harsh-kumar-maddheshiya-0479a9253/)
+
 ---
 
 ## 📄 License
