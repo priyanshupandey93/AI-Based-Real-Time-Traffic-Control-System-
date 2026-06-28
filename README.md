@@ -366,12 +366,14 @@ pip install opencv-python
 
 ---
 
-## 👤 Author
+## 👤 Authors
 
-**Abhay** — Major Project, Semester 8  
-AI-Based Real-Time Traffic Control System  
-GitHub: [Abhay0222/AI-Based-Real-Time-Traffic-Control-System-](https://github.com/Abhay0222/AI-Based-Real-Time-Traffic-Control-System-)
-
+**Abhay Singh**
+[LinkedIn](https://www.linkedin.com/in/abhay-singh-73921827a/)
+**Priyanshu Pandey**
+[LinkedIn](https://www.linkedin.com/in/priyanshu-pandey-93gn/)
+**Harsh Kumar Maddheshiya**
+[LinkedIn](https://www.linkedin.com/in/harsh-kumar-maddheshiya-0479a9253/)
 ---
 
 ## 📄 License
